@@ -10,7 +10,7 @@
 
 ---
 
-## Спецификация эндпоинтов и примеры JSON
+## Методы LiteCRM, эндпоинты и примеры JSON
 
 ### Управление продавцами
 
@@ -59,7 +59,7 @@
 **`GET /sellers`**
 ![img_1.png](img_1.png)
 
-**`POST /sellers`** 
+**`POST /sellers`**
 ![img_2.png](img_2.png)
 
 **Transactions**
