@@ -46,3 +46,6 @@ docker compose run crm-tests
 #### Руководство по использованию: [User guide](docs/usage.md)
 
 #### Результаты тестирования программы [Tests result](docs/tests.md)
+
+---
+ID заявки: SHIFT-96351 | Автор: Архипов Алексей 
