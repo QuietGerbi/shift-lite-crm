@@ -52,31 +52,48 @@
 
 ## Примеры использования
 
-Ниже приведены несколько примеров использования для каждого из разделов
+Ниже приведены примеры использования для каждого метода
 
 **Sellers**
 
 **`GET /sellers`**
-![img_1.png](img_1.png)
+![img_12.png](img_12.png)
+
+**`GET /sellers/{id}`**
+![img_11.png](img_11.png)
 
 **`POST /sellers`**
-![img_2.png](img_2.png)
+![img_13.png](img_13.png)
+
+**`PUT /sellers/{id}`**
+![img_14.png](img_14.png)
+
+**`DELETE /sellers/{id}`**
+![img_15.png](img_15.png)
+И вот результат:
+![img_16.png](img_16.png)
 
 **Transactions**
 
+**`GET /transactions`**
+![img_18.png](img_18.png)
+
 **`GET /transactions/{id}`**
-![img_3.png](img_3.png)
+![img_19.png](img_19.png)
+
+**`GET /sellers/{id}/transactions`**
+![img_22.png](img_22.png)
 
 **`POST /transactions`**
-![img_4.png](img_4.png)
+![img_20.png](img_20.png)
 
 **Analytics**
 
 **`GET /analytics/most-productive/{option}`**
-![img_5.png](img_5.png)
+![img_21.png](img_21.png)
 
 **`GET /analytics/less-than?from=yyyy-mm-ddThh:mm:ss&to=yyyy-mm-ddThh:mm:ss&amount=AMOUNT_NUM`**
-![img_6.png](img_6.png)
+![img_23.png](img_23.png)
 
 **`GET /analytics/best-period/{Seller id}`**
-![img_7.png](img_7.png)
+![img_24.png](img_24.png)
